@@ -1,8 +1,8 @@
-# FMD-DATASET-STATIC-WEBSITE :star_struck: :memo: :pencil: :book: :file_folder: :clipboard: :iphone: :computer:
+# FMD-DATASET-STATIC-WEBSITE :star_struck: :memo: :file_folder: :computer:
 
 [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) 
 
-***This new Web Application named 'TODOLIST-ANGULAR' is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+***This new WebSite named 'FMD-DATASET-STATIC-WEBSITE' is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: bbiswa471@gmail.com.** 
 
@@ -21,7 +21,7 @@
    
 </div>
  
-## LINK : :point_right: https://todolist-by-biswa.netlify.app/
+## LINK : :point_right: 
 
 ## Purpose :point_down:
 
@@ -47,13 +47,8 @@
 ## Folder Structure :point_down:
 ```bash
 FMD-DATASET-STATIC-WEBSITE
-            ├── 
-            ├── 
-            ├── 
-            ├── 
-            └── 
-
-
+            ├── index.html
+            └── dataset.css
 ```
 
 ## Making :point_down:
