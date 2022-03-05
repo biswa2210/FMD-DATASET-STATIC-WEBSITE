@@ -63,11 +63,14 @@ FMD-DATASET-STATIC-WEBSITE
 
 <div align="center">
 
-<a href="pics/todo1.PNG"><img src="pics/todo1.PNG" width="400" height= "300"></a> <a href="pics/todo2.PNG"><img src="pics/todo2.PNG" width="400" height= "300"></a>
+<a href="pics/todo1.PNG"><img src="pics/md1.PNG" width="800" height= "300"></a> 
+  
+<a href="pics/todo2.PNG"><img src="pics/md2.PNG" width="800" height= "300"></a>
  
-<a href="pics/todo3.PNG"><img src="pics/todo3.PNG" width="400" height= "300"></a> <a href="pics/todo4.PNG"><img src="pics/todo4.PNG" width="400" height= "300"></a>
-
-<a href="pics/todo5.PNG"><img src="pics/todo5.PNG" width="400" height= "300"></a> <a href="pics/todo6.PNG"><img src="pics/todo6.PNG" width="400" height= "300"></a>
+<a href="pics/todo3.PNG"><img src="pics/md3.PNG" width="800" height= "300"></a> 
+  
+<a href="pics/todo4.PNG"><img src="pics/md4.PNG" width="800" height= "300"></a>
+  
 </div>
 
 
