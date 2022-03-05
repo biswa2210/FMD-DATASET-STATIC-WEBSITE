@@ -18,6 +18,7 @@
 
 <div align="justified">
   
+This is a website which contains description about dataset of Mask Detection System. This dataset contains 1915 images of people with mask and 1918 images of people without mask. The dataset has been uploaded in google drive then the links are attached with the buttons given below with mask, withou mask, view all, download.
    
 </div>
  
@@ -27,6 +28,7 @@
 
 <div align="justified">
 
+I have made this website to provide the dataset link in a research paper of my project mask detection system.
 
 </div>
 
@@ -34,15 +36,9 @@
 
 <div align="justified">
 
+We just have to click on the buttons to access the dataset of with mask, without mask.
 
 </div>      
-       
-## Importance :point_down:
-
-<div align="justified">
-  
-
-</div>
 
 ## Folder Structure :point_down:
 ```bash
@@ -55,7 +51,7 @@ FMD-DATASET-STATIC-WEBSITE
 
 <div align="justified">
   
-
+I have made this website with html and css.
 
 </div>
 
@@ -63,13 +59,7 @@ FMD-DATASET-STATIC-WEBSITE
 
 <div align="center">
 
-<a href="pics/todo1.PNG"><img src="pics/md1.PNG" width="800" height= "300"></a> 
-  
-<a href="pics/todo2.PNG"><img src="pics/md2.PNG" width="800" height= "300"></a>
- 
-<a href="pics/todo3.PNG"><img src="pics/md3.PNG" width="800" height= "300"></a> 
-  
-<a href="pics/todo4.PNG"><img src="pics/md4.PNG" width="800" height= "300"></a>
+<a href="md1.PNG"><img src="md1.PNG" width="800" height= "400"></a> 
   
 </div>
 
