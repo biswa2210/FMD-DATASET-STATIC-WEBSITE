@@ -21,7 +21,11 @@
 This is a website which contains description about dataset of Mask Detection System. This dataset contains 1915 images of people with mask and 1918 images of people without mask. The dataset has been uploaded in google drive then the links are attached with the buttons given below with mask, withou mask, view all, download.
    
 </div>
- 
+
+## MASK DETECTION DATASET WEBSITE DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=PxdvfmhgcWs&list=PL0lbDlMJ1h4hASHfEE-4cMS7CHRgtoxH5&index=11">Click here to watch</a>
+
+## WEB DEV PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=8_QAOpUdaIY&list=PL0lbDlMJ1h4hASHfEE-4cMS7CHRgtoxH5">Click here to watch</a>
+
 ## LINK : :point_right: https://urlzs.com/xYrkr
 
 ## Purpose :point_down:
