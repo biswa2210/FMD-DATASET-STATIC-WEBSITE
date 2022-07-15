@@ -64,6 +64,8 @@ I have made this website with html and css.
 <div align="center">
 
 <a href="md1.PNG"><img src="md1.PNG" width="800" height= "400"></a> 
+
+<a href="FMD.png"><img src="FMD.png" width="800" height= "400"></a>
   
 </div>
 
